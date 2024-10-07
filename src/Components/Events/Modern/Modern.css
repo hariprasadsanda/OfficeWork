@@ -1,0 +1,118 @@
+.top-back{
+    background-color: cadetblue;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.shadow{
+    background-color: black;
+    opacity: 80%;
+    height: 470px;
+    width: 1000px;
+    border-radius: 30px;
+}
+.top-heading{
+    text-align: center;
+    color:white !important;
+}
+.top-para{
+    color: white;
+    text-align: center;
+}
+.calender-logo{
+    color: red;
+    font-size: larger;
+
+}
+.date{
+    color: white;
+    margin-left: 300px;
+    
+}
+.logo-container{
+    display: flex;
+}
+.venue{
+    color: white;
+    margin-left: 100px;
+}
+.list{
+    color: white;
+    list-style: none;
+    margin-left: 280px;
+    font-size: 18px;
+}
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.mid-cont{
+    display: flex;
+}
+.mid-text{
+    width: 65%;
+    margin: 20px;
+    font-size: 20px;
+}
+.class-span{
+    font-weight: bold;
+}
+.mid-image-cont{
+    width: 35%;
+    height: auto;
+}
+.mid-image{
+    height: 350px;
+    width: 430px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.scientific{
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.scientific-lists{
+    display: flex;
+    justify-content:space-evenly;
+}
+.unorder li{
+    font-weight: bold;
+    margin-top: 10px;
+    list-style-type:none;
+}
+.venue-cont{
+    background-color: cadetblue;
+    height: 400px;
+}
+.venue-back{
+    display: flex;
+    justify-content: space-evenly;
+}
+.venue-flex{
+    display: flex;
+    justify-content:space-between;
+}
+.venue-unorder li{
+    margin-left: -200px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.venue-unorder1 li{
+    
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.venue-heading{
+    margin-left: -80px;
+}
+.hotel-img{
+   margin-top: 30px;
+    height: 350px;
+}

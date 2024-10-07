@@ -1,0 +1,30 @@
+.speaker-image{
+    background-color: darkslategrey;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: cover !important;
+    text-align: center;
+    
+}
+.speaker-h{
+    color:white ;
+    padding-top: 60px;
+}
+.applied-h{
+    text-align: center;
+    color: rgb(20, 177, 20);
+}
+.guideline-container{
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.unorder{
+    font-size: 20px;  
+}
+.unorder-list{
+    margin-bottom: 20px;
+}
+.side-heading{
+    color: rgb(20, 177, 20);
+}

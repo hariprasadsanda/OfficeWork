@@ -1,0 +1,106 @@
+.contact-container{
+    background-color: #154747;
+    height: 450px;
+}
+.contact-heading{
+    text-align: center;
+    color: white;
+}
+.contact-para{
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.contact-sub{
+    display: flex;
+    justify-content: space-between;
+}
+.address-card{
+    background-color: white;
+    margin: 30px;
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+    padding-top: 25px;
+    margin-left: 100px;
+   
+}
+.phone-card{
+    background-color: white;
+    margin: 30px;
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+    padding-top: 25px;
+}
+.email-card{
+    background-color: white;
+    margin: 30px;
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+    padding-top: 25px;
+    margin-right: 100px;
+}
+.address-heading{
+    text-align: center;
+}
+.address-para{
+    text-align: center;
+}
+.email-heading{
+    text-align: center;
+}
+.email-para{
+    text-align: center;
+}
+.phone-heading{
+    text-align: center;
+}
+.phone-para{
+    text-align: center;
+}
+.map-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.form-container{
+    background-color:antiquewhite;
+    height: 510px ;
+    width: 40%;
+    padding-left: 30px;
+    margin-top: 30px;
+    border: 2px thin;
+}
+.form-heading{
+    text-align: center;
+}
+.form-name{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 30PX;
+}
+.form-email{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 30PX;
+}
+.form-message{
+    width: 80%;
+    height: 150px;
+    margin-bottom: 30PX;
+}
+.form-button{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border: none;
+}
+.map-cont{
+   margin-top: 30px;
+    width: 50%;
+    border: 1px solid silver;
+}

@@ -1,0 +1,52 @@
+.logo{
+    height: 80px;
+    width: auto;
+    margin-left: 20px;
+    margin-top: 10PX;
+   
+}
+.nav-back{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+.nav-align{
+    display: flex;
+   
+}
+.nav{
+    display: flex;
+    margin-left: 100px;
+}
+.nav-li{
+    margin: 20px;
+    list-style: none;
+    margin-left: 20px;
+}
+.link{
+    color: black;
+    list-style: none;
+    font-weight: bold;
+}
+.nav-select{
+   height: 40px;
+   background-color: transparent;
+   background-color:rgb(255, 255, 255);
+   outline: none;
+   border: none;
+   color: black;
+   font-weight: bold;
+   margin-top: -10px;
+   width: 180px;
+}
+.register{
+    background-color: transparent;
+    border-width: 7px;
+    border: 5px solid transparent;
+    border-color: rgb(9, 61, 204);
+    height: 50px;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 20PX;
+}

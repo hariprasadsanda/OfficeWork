@@ -1,0 +1,40 @@
+.foot-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategray;
+}
+.foot-image{
+    height: 200px;
+    width: auto;
+    margin: 10px;
+}
+.foot-para{
+    width: 400px;
+    margin-left: 70px;
+    margin-top: -30px;
+}
+.foot-useful{
+    margin-left: -100px;
+    margin-top: 40px;
+}
+.foot-contact{
+    margin-top: 40px;
+    margin-left: -60px;
+    margin-right: 15px;
+}
+.foot-list{
+    list-style: none;
+   
+
+}
+.foot-linked{
+    margin: 10px;
+}
+.foot-color{
+    color: white;
+}
+.foot-copy{
+   background-color:darkslategray ;
+   margin-top: -18px;
+   text-align: center;
+}

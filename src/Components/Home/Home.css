@@ -1,0 +1,89 @@
+.back{
+    background-image: url('https://img.freepik.com/free-vector/dentist-medical-background-with-3d-tooth-design_1017-26095.jpg?t=st=1728286153~exp=1728289753~hmac=b109086bff852f3b985b456dc511724c195075f37120257f413f6e03ec227878&w=740');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width: auto;
+}
+.main-heading{
+    font-size: 38px;
+    text-align: left;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-top: 130px;
+   padding-left: 20px;
+}
+.tag-line{
+    font-size: 20px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+}
+.cont-button{
+    color: black;
+    background-color: rgb(5, 190, 5);
+    height: 50px;
+    width: 120px;
+    border-radius: 0px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 50px;
+}
+.about{
+    display: flex;
+    margin-top: 20px;
+}
+.about-heading{
+    font-size: 25px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    margin-top: 0px;
+}  
+.about-text{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.upcomming-image{
+    height: 200px;
+    width: auto;
+}
+.upcomming{
+    display: flex;
+    
+}
+.upcomming-card{
+    border: 1px solid silver;
+    padding: 20px;
+    text-align: left;
+    margin: 3px;
+}
+.upcomming-btn{
+    background-color: rgb(33, 33, 105);
+    color: white;
+    height: 40px;
+    width: auto;
+    border-width: 0px;
+    font-size: 15px;
+    margin-left: 110px;
+}
+.up-para{
+    text-align: left;
+}
+.upcomming2{
+    display: flex;
+}
+.upcomming-card2{
+    width: 400px;
+    border: 1px solid silver;
+    padding: 20px;
+    text-align: left;
+    margin: 3px;
+}
+.upcomming-heading{
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+.media-card{
+    display: flex;
+}
+.img-card{
+   height: 50px;
+   width: auto;
+   margin: 10px;
+}
+.media-heading{
+    text-align: center;
+}

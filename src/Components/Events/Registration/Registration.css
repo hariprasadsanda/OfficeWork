@@ -1,0 +1,35 @@
+.registartion-text{
+    text-align: center;
+}
+.white-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.white1{
+    border: 1px silver solid;
+    height: 300px;
+    width: 320px;
+    margin-left: 90px;
+    text-align: center;
+}
+.white-button{
+    background-color: #13214a;
+    color: white;
+    width: 300px;
+    height: 40px;
+    border: none;
+}
+.white2{
+    border: 1px silver solid;
+    height: 300px;
+    width: 320px;
+    margin-left: 0px;
+    text-align: center;
+}
+.white3{
+    border: 1px silver solid;
+    height: 300px;
+    width: 320px;
+    margin-right: 90px;
+    text-align: center;
+}
