@@ -13,6 +13,7 @@ import Orthodontics from './Components/Events/Orthodontics/Orthodontics'
 import Pediatric from './Components/Events/Pediatric/Pediatric'
 import Modern from './Components/Events/Modern/Modern'
 import Dentalresearch from './Components/Events/Dentalresearch/Dentalresearch'
+import'./App.css'
 
 
 
